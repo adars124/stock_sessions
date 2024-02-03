@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Dummy-Man-s-workspace-mvam4m.us-east-1.xata.sh/db/stock-sessions",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
